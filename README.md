@@ -1,14 +1,14 @@
-# 💻Go Study
+# 💻GoSystem
 ## 🚀 소개
 ### 프로젝트 소개
-Go study를 했습니다
+스터디용
 
 ## 🛠️ 기술 스택
-![Go](https://img.shields.io/badge/Go-239d2?style=for-the-badge&logo=go&logoColor=white) 
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white) 
 
 | **Category** | **Stack** |
 |:------------:|:----------:|
-| Uncategorized | `Go` |
+| **Front-end** | `TypeScript`, `React` |
 
 
 ## 💻 설치 방법
@@ -38,10 +38,4 @@ npm run build
 # 또는
 yarn build
 ```
-
-## 👥 팀원
-| **Name** | **Position** |
-|:--------:|:------------:|
-| **서희참** | `Frontend` |
-| **서찬** | `AI/ML` |
 
